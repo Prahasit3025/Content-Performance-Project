@@ -5,3 +5,18 @@ This project explores and analyzes Netflix's global content library using real-w
 
 🔍 Objective
 To analyze Netflix’s catalog and derive insights into content types, genres, release trends, countries, and audience ratings, enabling better understanding of platform strategy and viewer preferences.
+
+📁 Project Structure
+📊 Power BI Dashboards
+1. Overview Dashboard
+Total Movies and TV Shows
+
+Genre Distribution (Top 5)
+
+Ratings Breakdown
+
+Geographic distribution (Map)
+
+Content Type Split (Pie chart)
+
+Filters for Month and Year
