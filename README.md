@@ -1,7 +1,7 @@
 # 📊 Content-Performance-Project
 
 This project analyzes Netflix's global content library using a dataset of over 6,200 titles. It combines SQL, Power BI, and Tableau to uncover insights on content type, genre, rating, country distribution, and yearly trends.
-<br>
+<br> 
 <br>
 Two Power BI dashboards were developed. The Overview Dashboard displays total content count, top genres, ratings, country-level distribution, and filters for month and year. The Detailed Dashboard allows deeper exploration by title, cast, director, and genre, and includes trends by year and metadata display for selected shows.
 <br>
