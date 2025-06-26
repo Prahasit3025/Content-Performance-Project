@@ -10,3 +10,5 @@ Rating(Text): Content rating (e.g., PG-13, TV-MA, R).
 Duration(Text): For movies – time in minutes (e.g., "90 min"); for shows – number of seasons (e.g., "2 Seasons").
 Listed In(Text): Genres or categories (e.g., "Dramas, Crime Shows").
 Description(Text): Short summary or synopsis of the content.
+
+
