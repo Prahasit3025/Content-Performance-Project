@@ -1,22 +1,14 @@
-# Content-Performance-Project
+# 📊 Content-Performance-Project
 
-📊 Netflix Content Performance Dashboard – Project Summary
-This project explores and analyzes Netflix's global content library using real-world data. It includes interactive dashboards built in Power BI and Tableau, supported by structured SQL queries for content performance analysis.
+This project analyzes Netflix's global content library using a dataset of over 6,200 titles. It combines SQL, Power BI, and Tableau to uncover insights on content type, genre, rating, country distribution, and yearly trends.
+<br>
+Two Power BI dashboards were developed. The Overview Dashboard displays total content count, top genres, ratings, country-level distribution, and filters for month and year. The Detailed Dashboard allows deeper exploration by title, cast, director, and genre, and includes trends by year and metadata display for selected shows.
+<br>
+A separate Tableau dashboard offers interactive visuals showing content ratings, genre trends, and growth by country and year, with filters for type and rating.
+<br>
+SQL was used for data cleaning and analysis, including calculating totals, extracting genres, handling durations, and building subqueries for deeper insights. The cleaned dataset was prepared in Excel and imported into Power BI and Tableau.
+<br>
+Overall, the project provides a visual and data-driven overview of Netflix’s content strategy, highlighting popular genres, dominant ratings, and how content has expanded over time.
 
-🔍 Objective
-To analyze Netflix’s catalog and derive insights into content types, genres, release trends, countries, and audience ratings, enabling better understanding of platform strategy and viewer preferences.
 
-📁 Project Structure<br>
-📊 Power BI Dashboards<br>
-1. Overview Dashboard
-Total Movies and TV Shows
 
-Genre Distribution (Top 5)
-
-Ratings Breakdown
-
-Geographic distribution (Map)
-
-Content Type Split (Pie chart)
-
-Filters for Month and Year
