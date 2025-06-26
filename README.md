@@ -6,8 +6,8 @@ This project explores and analyzes Netflix's global content library using real-w
 🔍 Objective
 To analyze Netflix’s catalog and derive insights into content types, genres, release trends, countries, and audience ratings, enabling better understanding of platform strategy and viewer preferences.
 
-📁 Project Structure
-📊 Power BI Dashboards
+📁 Project Structure<br>
+📊 Power BI Dashboards<br>
 1. Overview Dashboard
 Total Movies and TV Shows
 
